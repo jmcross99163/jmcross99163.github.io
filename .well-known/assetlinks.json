@@ -1,0 +1,13 @@
+[{
+  "relation": [
+    "delegate_permission/common.handle_all_urls",
+    "delegate_permission/common.use_as_origin"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.clockfall.game",
+    "sha256_cert_fingerprints": [
+      "11:0C:04:D5:F2:30:9E:29:48:D5:F9:8C:2E:B8:32:BB:62:9D:B2:0E:BE:B9:63:B2:7F:AB:DE:67:AB:BB:BA:93"
+    ]
+  }
+}]
